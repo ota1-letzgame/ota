@@ -1,0 +1,21 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/wowogame/asst/master/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/letzgame/conf/master/epicslots_prj.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/letzgame/conf/master/epicslots_ver.manifest",
+	"version" : "1.0.0",
+	"engineVersion" : "3.8",
+	"assets" : {
+		"ass-epicl-1-hd.zip" : {
+            "md5" : "...",
+            "compressed" : true
+        },
+		"ass-epicg-1-hd.zip" : {
+            "md5" : "...",
+            "compressed" : true
+        }        
+	},   
+    "searchPaths" : [
+    	"ass-epicl-1-hd",
+    	"ass-epicg-1-hd"
+    ]
+}

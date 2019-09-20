@@ -1,0 +1,7 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/wowogame/asst/master/",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/letzgame/conf/master/epicslots_prj.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/letzgame/conf/master/epicslots_ver.manifest",
+	"version" : "1.0.0",
+	"engineVersion" : "3.8"
+}

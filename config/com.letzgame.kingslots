@@ -1,0 +1,9 @@
+{
+ "ver":4,
+ "ld":0,
+ "httpsrv":"https://raw.githubusercontent.com/wowogame/asst/master/",
+ "udid":{"cp":"0","bt":"0","xp":"0"},
+ "parse_server":"http://163.172.10.159:1340/kingslots",
+ "server_status":0,
+ "server_msg":""
+}
